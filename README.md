@@ -1,3 +1,3 @@
 # Hey, I'm Neeraj
 
-I love broken things and fixing them.
+I love fixing broken things.
